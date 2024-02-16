@@ -1,0 +1,77 @@
+.trans {
+    background-color: rgba(0, 0, 0, 0.226);
+
+}
+
+html {
+    position: relative;
+    min-height: 100vh;
+
+}
+
+
+h1,
+h2,
+h3,
+p,
+a {
+
+    font-family: 'IBM Plex Sans', sans-serif;
+
+
+}
+
+body {
+
+    background-image: url(../img/back.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.card-body {
+
+    min-width: 90px;
+
+}
+
+.nav-back2 {
+
+    background-image: url(../img/backNav2.png);
+    background-position: right, center;
+    background-size: cover;
+
+}
+
+.nav-back {
+
+    background-image: url(../img/backnav.png);
+    background-position: right, center;
+    background-size: cover;
+
+}
+
+
+nav>div>img {
+
+    width: 80px;
+
+}
+
+
+footer {
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+
+footer>div>a>img {
+
+    width: 130px;
+
+
+}
